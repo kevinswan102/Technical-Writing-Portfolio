@@ -1,4 +1,4 @@
-# Technical-Writing-Repo
+# Technical-Writing-Portfolio
 This repository contains a collection of my writing from both my learning and teaching experiences.
 
 # Documentation Types
