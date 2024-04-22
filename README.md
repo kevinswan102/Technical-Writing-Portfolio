@@ -4,7 +4,7 @@ This repository contains a collection of my writing from both my learning and te
 # Documentation Types
 My technical writing samples are categorized into the following documentation types:
 
-Essays
-Instructional (Written for students as a teacher)
-Outlines
-Reports
+- Essays
+- Instructional (Written for students as a teacher)
+- Outlines
+- Reports
