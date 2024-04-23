@@ -1,5 +1,5 @@
 # Technical-Writing-Portfolio
-This repository contains a collection of my writing from both my learning and teaching experiences. Just click any file name to view a PDF preview.
+This repository contains a collection of my writing from both my learning and teaching experiences. Just click any file name to view a PDF preview of some writing examples.
 
 # Documentation Types
 My technical writing samples are categorized into the following documentation types:
