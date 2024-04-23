@@ -8,3 +8,4 @@ My technical writing samples are categorized into the following documentation ty
 - Instructional (Written for students as a teacher)
 - Outlines
 - Reports
+- How-to guides
