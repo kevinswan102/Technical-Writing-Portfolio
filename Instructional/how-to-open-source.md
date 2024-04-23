@@ -1,7 +1,7 @@
 # How to Contribute to an Open Source Project on GitHub
 
 ## Introduction:
-Open source projects on GitHub offer a collaborative environment where developers can contribute to software projects, learn from others, and make meaningful contributions to the community. In this guide, we'll walk you through the steps to successfully commit to an open source project on GitHub.
+Open source projects on GitHub offer a collaborative environment where developers can contribute to software projects, learn from others, and make meaningful contributions to the community. In this guide, I'll walk you through the steps to successfully commit to an open source project on GitHub.
 
 ## Step 1: Find a Project:
 Start by exploring GitHub repositories to find an open source project that interests you. You can use GitHub's search feature to discover projects based on programming languages, topics, or keywords. Look for projects with active maintainers, clear contribution guidelines, and issues labeled as "good first issue" or "help wanted" for newcomers.
